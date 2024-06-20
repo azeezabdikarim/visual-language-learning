@@ -1,0 +1,79 @@
+photo_id,vocab_word,english_translation,source
+0,beste,best,extracted
+0,ausbilder,instructor,extracted
+0,deutschlands,Germany's,extracted
+0,faire,fair,extracted
+0,ausbildung,training,extracted
+2,ordentlichen,orderly,extracted
+2,gute,good,extracted
+2,sache,thing,extracted
+2,neben,next to,extracted
+2,handel,trade,extracted
+2,flasche,bottle,extracted
+2,soziale,social,extracted
+2,anbauregionen,cultivation regions,extracted
+0,der,the (masculine),suggested
+0,die,the (feminine),suggested
+0,das,the (neuter),suggested
+0,haus,house,suggested
+0,hund,dog,suggested
+0,katze,cat,suggested
+0,baum,tree,suggested
+0,auto,car,suggested
+0,essen,eat,suggested
+0,trinken,drink,suggested
+0,gehen,go,suggested
+0,kommen,come,suggested
+0,machen,do,suggested
+0,lesen,read,suggested
+0,schreiben,write,suggested
+0,sprechen,speak,suggested
+0,lernen,learn,suggested
+0,hören,listen,suggested
+0,sehen,see,suggested
+0,wohnen,live,suggested
+0,arbeiten,work,suggested
+0,möchte,would like,suggested
+0,können,can,suggested
+0,müssen,must,suggested
+0,sollen,should,suggested
+0,wollen,want,suggested
+0,darf,may,suggested
+0,ein,one,suggested
+0,zwei,two,suggested
+0,drei,three,suggested
+0,vier,four,suggested
+0,fünf,five,suggested
+0,heute,today,suggested
+0,gestern,yesterday,suggested
+0,morgen,tomorrow,suggested
+0,immer,always,suggested
+0,nie,never,suggested
+0,oft,often,suggested
+0,manchmal,sometimes,suggested
+0,gern,like,suggested
+0,nicht,not,suggested
+0,schön,beautiful,suggested
+0,kalt,cold,suggested
+0,warm,warm,suggested
+0,heiß,hot,suggested
+0,froh,happy,suggested
+0,traurig,sad,suggested
+0,müde,tired,suggested
+0,wütend,angry,suggested
+0,alt,old,suggested
+0,jung,young,suggested
+2,der ordnung,the order,suggested
+2,die sache,the thing,suggested
+2,der handel,the trade,suggested
+2,die flasche,the bottle,suggested
+2,die soziale,the social,suggested
+2,die anbauregionen,the cultivation regions,suggested
+2,ein gutes bier,a good beer,suggested
+2,die erfrischung,the refreshment,suggested
+2,das getränk,the drink,suggested
+2,der sprudel,the fizz,suggested
+2,fünf flaschen,five bottles,suggested
+2,kaufen,to buy,suggested
+2,trinken,to drink,suggested
+2,feiern,to celebrate,suggested

@@ -11,7 +11,9 @@
             "program": "${file}",
             "console": "integratedTerminal",
             // "cwd": "${workspaceFolder}",
-            "args": ["--input_directory", "/Users/azeez/Downloads/language_test_imgs"]
+            "args": [//"--input_directory", "/Users/azeez/Downloads/language_test_imgs"
+                "--input_directory", "/Users/azeez/Documents/LLMs/visual-language-learning/sample_pics"
+            ]
         }
     ]
 }

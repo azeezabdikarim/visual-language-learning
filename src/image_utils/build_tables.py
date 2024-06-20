@@ -4,6 +4,7 @@ import json
 def parse_json_response_llava(response, start="JSON_START:"):
     start_loc = response.find(start)
     json_response = response[start_loc + len(start):] if start_loc != -1 else response
+    json_response = json_response[:-4] if response[-4:] == "```\n" else json_response
     try:
         return json.loads(json_response)
     except json.JSONDecodeError:

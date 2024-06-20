@@ -1,0 +1,311 @@
+photo_id,image_datetime,latitude_ref,latitude,longitude_ref,longitude,altitude_ref,altitude,timestamp,date,json_response,ocr_text,extracted_words,translated_extracted_words,suggested_words,translated_suggested_words,image_quality,relevance_explanation,quality_explanation
+0,2024:05:23 09:50:44,None,"[52, 29, 2053/100]",E,"[13, 26, 443/50]",0,197355/5078,"[7, 50, 35]",2024:05:23,"JSON_START:
+{
+  ""extracted_words"": [
+    ""beste"",
+    ""ausbilder"",
+    ""deutschlands"",
+    ""faire"",
+    ""ausbildung""
+  ],
+  ""translated_extracted_words"": [
+    ""best"",
+    ""instructor"",
+    ""Germany's"",
+    ""fair"",
+    ""training""
+  ],
+  ""suggested_words"": [
+    ""der"",
+    ""die"",
+    ""das"",
+    ""haus"",
+    ""hund"",
+    ""katze"",
+    ""baum"",
+    ""auto"",
+    ""essen"",
+    ""trinken"",
+    ""gehen"",
+    ""kommen"",
+    ""machen"",
+    ""lesen"",
+    ""schreiben"",
+    ""sprechen"",
+    ""lernen"",
+    ""hören"",
+    ""sehen"",
+    ""wohnen"",
+    ""arbeiten"",
+    ""möchte"",
+    ""können"",
+    ""müssen"",
+    ""sollen"",
+    ""wollen"",
+    ""darf"",
+    ""ein"",
+    ""zwei"",
+    ""drei"",
+    ""vier"",
+    ""fünf"",
+    ""heute"",
+    ""gestern"",
+    ""morgen"",
+    ""immer"",
+    ""nie"",
+    ""oft"",
+    ""manchmal"",
+    ""gern"",
+    ""nicht"",
+    ""schön"",
+    ""kalt"",
+    ""warm"",
+    ""heiß"",
+    ""froh"",
+    ""traurig"",
+    ""müde"",
+    ""wütend"",
+    ""alt"",
+    ""jung""
+  ],
+  ""translated_suggested_words"": [
+    ""the (masculine)"",
+    ""the (feminine)"",
+    ""the (neuter)"",
+    ""house"",
+    ""dog"",
+    ""cat"",
+    ""tree"",
+    ""car"",
+    ""eat"",
+    ""drink"",
+    ""go"",
+    ""come"",
+    ""do"",
+    ""read"",
+    ""write"",
+    ""speak"",
+    ""learn"",
+    ""listen"",
+    ""see"",
+    ""live"",
+    ""work"",
+    ""would like"",
+    ""can"",
+    ""must"",
+    ""should"",
+    ""want"",
+    ""may"",
+    ""one"",
+    ""two"",
+    ""three"",
+    ""four"",
+    ""five"",
+    ""today"",
+    ""yesterday"",
+    ""tomorrow"",
+    ""always"",
+    ""never"",
+    ""often"",
+    ""sometimes"",
+    ""like"",
+    ""not"",
+    ""beautiful"",
+    ""cold"",
+    ""warm"",
+    ""hot"",
+    ""happy"",
+    ""sad"",
+    ""tired"",
+    ""angry"",
+    ""old"",
+    ""young""
+  ],
+  ""image_quality"": ""low"",
+  ""relevance_explanation"": ""The extracted and suggested words are foundational for basic German vocabulary and are suitable for A1 learners."",
+  ""quality_explanation"": ""The quality of the OCR text is low due to the presence of numerous non-alphabetic characters and unclear words.""
+}
+","\a E
+
+W ga
+
+K
+
+°gLn-""‘t RE a
+
+Beste Ausbilder
+
+Deutschlands
+Faire Ausbildung *x d k
+2024
+
+trendence Netto Marken-Discount
+
+AA ; ATZ! SCANNEN &
+BEWERBEN
+
+","['beste', 'ausbilder', 'deutschlands', 'faire', 'ausbildung']","['best', 'instructor', ""Germany's"", 'fair', 'training']","['der', 'die', 'das', 'haus', 'hund', 'katze', 'baum', 'auto', 'essen', 'trinken', 'gehen', 'kommen', 'machen', 'lesen', 'schreiben', 'sprechen', 'lernen', 'hören', 'sehen', 'wohnen', 'arbeiten', 'möchte', 'können', 'müssen', 'sollen', 'wollen', 'darf', 'ein', 'zwei', 'drei', 'vier', 'fünf', 'heute', 'gestern', 'morgen', 'immer', 'nie', 'oft', 'manchmal', 'gern', 'nicht', 'schön', 'kalt', 'warm', 'heiß', 'froh', 'traurig', 'müde', 'wütend', 'alt', 'jung']","['the (masculine)', 'the (feminine)', 'the (neuter)', 'house', 'dog', 'cat', 'tree', 'car', 'eat', 'drink', 'go', 'come', 'do', 'read', 'write', 'speak', 'learn', 'listen', 'see', 'live', 'work', 'would like', 'can', 'must', 'should', 'want', 'may', 'one', 'two', 'three', 'four', 'five', 'today', 'yesterday', 'tomorrow', 'always', 'never', 'often', 'sometimes', 'like', 'not', 'beautiful', 'cold', 'warm', 'hot', 'happy', 'sad', 'tired', 'angry', 'old', 'young']",low,The extracted and suggested words are foundational for basic German vocabulary and are suitable for A1 learners.,The quality of the OCR text is low due to the presence of numerous non-alphabetic characters and unclear words.
+1,2024:05:30 18:54:53,None,"[52, 29, 1147/25]",E,"[13, 25, 1279/100]",0,232101/6382,"[16, 54, 5199/100]",2024:05:30,"JSON_START:{
+    'extracted_words': ['neptunbrunnen', 'alexanderplatz', 'in', 'investieren', 'nicht', 'waffen'],
+    'translated_extracted_words': ['neptune fountain', 'alexanderplatz', 'in', 'invest', 'not', 'weapons'],
+    'suggested_words': ['der brunnen', 'der platz', 'das wasser', 'die statue', 'die stadt', 'das wetter', 'der himmel', 'das gebaude', 'die touristen', 'der park'],
+    'translated_suggested_words': ['the fountain', 'the square', 'the water', 'the statue', 'the city', 'the weather', 'the sky', 'the building', 'the tourists', 'the park'],
+    'image_quality': ""medium"",
+    'relevance_explanation': ""The extracted and suggested words include relevant landmarks, common nouns, and descriptions likely observed in public squares and open areas similar to Alexanderplatz."",
+    'quality_explanation': ""The OCR text contained recognizable German words but also included noise and irrelevant content. The quality flag is rated medium due to the presence of mixed valid and invalid text.""
+}","ET
+
+i Neptunbrunnen |
+E >+U Alexanderplatz \
+
+BSW
+
+®
+
+bsw-vg.eu
+
+n www.staudigl-druck.de Y P A E
+
+In Frieeién
+investieren, nicht
+in Waffen!
+
+",[],[],[],[],unknown,Parsing error,Parsing error
+2,2024:06:07 21:38:04,None,"[52, 31, 331/100]",E,"[13, 23, 5991/100]",0,433407/11816,"[19, 38, 153/50]",2024:06:07,"JSON_START:
+{
+    ""extracted_words"": [
+        ""ordentlichen"",
+        ""gute"",
+        ""sache"",
+        ""neben"",
+        ""handel"",
+        ""flasche"",
+        ""soziale"",
+        ""anbauregionen""
+    ],
+    ""translated_extracted_words"": [
+        ""orderly"",
+        ""good"",
+        ""thing"",
+        ""next to"",
+        ""trade"",
+        ""bottle"",
+        ""social"",
+        ""cultivation regions""
+    ],
+    ""suggested_words"": [
+        ""der ordnung"",
+        ""die sache"",
+        ""der handel"",
+        ""die flasche"",
+        ""die soziale"",
+        ""die anbauregionen"",
+        ""ein gutes bier"",
+        ""die erfrischung"",
+        ""das getränk"",
+        ""der sprudel"",
+        ""fünf flaschen"",
+        ""kaufen"",
+        ""trinken"",
+        ""feiern""
+    ],
+    ""translated_suggested_words"": [
+        ""the order"",
+        ""the thing"",
+        ""the trade"",
+        ""the bottle"",
+        ""the social"",
+        ""the cultivation regions"",
+        ""a good beer"",
+        ""the refreshment"",
+        ""the drink"",
+        ""the fizz"",
+        ""five bottles"",
+        ""to buy"",
+        ""to drink"",
+        ""to celebrate""
+    ],
+    ""image_quality"": ""low"",
+    ""relevance_explanation"": ""The extracted and suggested words are related to beverages and trade, which are relevant to understanding basic vocabulary around ordering and discussing drinks in German."",
+    ""quality_explanation"": ""The OCR output was quite noisy and fragmented, leading to a low quality rating due to the difficulty in extracting coherent text.""
+}
+","naid is@ono ..
+Dn ordentlichen Schl
+e gute Sache, Nebe c
+iren Handel un’rers'rü1‘\
++ eder Flasche Soziale P
+_ den Anbauregionen.
+
+‚Ww.lemonaid.de \
+nonaid Beyerages GmbH
+
+ıch 30 61:27
+
+","['ordentlichen', 'gute', 'sache', 'neben', 'handel', 'flasche', 'soziale', 'anbauregionen']","['orderly', 'good', 'thing', 'next to', 'trade', 'bottle', 'social', 'cultivation regions']","['der ordnung', 'die sache', 'der handel', 'die flasche', 'die soziale', 'die anbauregionen', 'ein gutes bier', 'die erfrischung', 'das getränk', 'der sprudel', 'fünf flaschen', 'kaufen', 'trinken', 'feiern']","['the order', 'the thing', 'the trade', 'the bottle', 'the social', 'the cultivation regions', 'a good beer', 'the refreshment', 'the drink', 'the fizz', 'five bottles', 'to buy', 'to drink', 'to celebrate']",low,"The extracted and suggested words are related to beverages and trade, which are relevant to understanding basic vocabulary around ordering and discussing drinks in German.","The OCR output was quite noisy and fragmented, leading to a low quality rating due to the difficulty in extracting coherent text."
+3,2024:05:31 13:37:31,None,"[52, 30, 91/5]",E,"[13, 25, 1957/100]",0,592073/15644,"[11, 37, 31]",2024:05:31,"JSON_START:
+{
+    ""extracted_words"":[""spielplatz"", ""waldemarstrasse"", ""neugestaltung"", ""einladung"", ""konzeptvorstellung"", ""beteiligung"", ""uhr"", ""liebe"", ""kinder"", ""eltern"", ""herzlich"", ""konzept"", ""neugestaltung"", ""kennenzulernen"", ""planung"", ""hinweise"", ""anregungen"", ""bereichen"", ""hilfe"", ""konkreter"", ""fragen"", ""beteiligungs"", ""prozess"", ""gebaut"", ""wann"", ""gesonderten"", ""termin"", ""vormittag"", ""kommt"", ""vorbei"", ""wo"", ""spielplatz"", ""waldemarstraße"", ""neben"", ""nr"", ""mittwoch"", ""uhr""],
+    ""translated_extracted_words"":[""playground"", ""waldemarstrasse"", ""redesign"", ""invitation"", ""concept presentation"", ""participation"", ""clock"", ""dear"", ""children"", ""parents"", ""cordially"", ""concept"", ""redesign"", ""get acquainted with"", ""planning"", ""suggestions"", ""comments"", ""enrich"", ""help"", ""more concrete"", ""questions"", ""participation"", ""process"", ""built"", ""when"", ""separate"", ""appointment"", ""morning"", ""come"", ""by"", ""where"", ""playground"", ""waldemarstrasse"", ""next to"", ""no"", ""wednesday"", ""clock""],
+    ""suggested_words"":[""der spielplatz"", ""die neugestaltung"", ""die einladung"", ""die beteiligung"", ""die uhr"", ""die eltern"", ""das konzept"", ""die planung"", ""die hilfe"", ""die frage"", ""der prozess"", ""der vormittag"", ""der mittwoch"", ""das kind"", ""die waldemarstraße"", ""der termin"", ""wo"", ""wann"", ""kommen"", ""bleiben"", ""sehen"", ""hören""],
+    ""translated_suggested_words"":[""the playground"", ""the redesign"", ""the invitation"", ""the participation"", ""the clock"", ""the parents"", ""the concept"", ""the planning"", ""the help"", ""the question"", ""the process"", ""the morning"", ""the wednesday"", ""the child"", ""the waldemarstrasse"", ""the appointment"", ""where"", ""when"", ""come"", ""stay"", ""see"", ""listen""],
+    ""image_quality"":""high"",
+    ""relevance_explanation"":""The words extracted from the image are relevant to the topic of a playground redesign event and are appropriate for A1-level German vocabulary."",
+    ""quality_explanation"":""The OCR text is clear and complete; most words are correctly identified and meaningful."",
+}
+","SPIELPLATZ WALDEMARSTRASSE
+
+NEUGESTÄLTUNG
+
+Einladung zur Konzeptvorstellung und Beteiligung am
+29.05.2024 von 15:00 - 17:30 Uhr
+
+Liebe Kinder,Jliebe Eltern,
+
+wir laden Euch herzlich ein, das Konzeptzür
+Neugestaltung des Spielplatzes in der Waldemarstraße
+kennenzulernen und die Planung mit Euren Hinweisen
+
+und Anregungen zu bereichern. Mit Eurer Hilfe soll die
+Planung konkreter werden!
+
+Außerdem beantworten wir Eure Fragen zum weiteren
+
+Beteiligungs- und Planungsprozess und klären, ab wann
+gebaut werden soll. _ ' ;
+
+Mit denen, die sich im letzten Jahr bereits beteiligt
+
+haben, gibt es einen gesonderten Termin am Vormittag.
+
+Kommt vorbei!
+
+sSTATTBAU
+R W eRLIN
+
+Wo:
+
+Spielplatz
+Waldemarstraße
+(neben Nr. 57)
+
+Waähnn:
+Mittwoch, 29.05.2024
+15:00 - 17:30 Uhr
+
+",[],[],[],[],unknown,Parsing error,Parsing error
+4,2024:05:29 19:25:47,None,"[52, 29, 4881/100]",E,"[13, 21, 14]",0,328702/9001,"[17, 25, 4459/100]",2024:05:29,"I am currently unable to interpret or extract data from the actual content of the provided image. My capabilities are limited to processing and generating text-based content. Therefore, I can’t access visual information or perform OCR analysis from image data directly.
+
+If you can provide OCR text (like what you did initially) or if you need help with any textual data manipulation or analysis, I'd be happy to assist! Please provide the OCR text directly, and I can help clean it and generate a study guide as requested.","m
+
+w
+®
+»
++# i
+z
+X
+
+$
+
+D
+Da
+",[],[],[],[],unknown,Parsing error,Parsing error
