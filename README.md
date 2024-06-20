@@ -84,6 +84,37 @@ Output files are saved in a subdirectory within the input directory, named with 
 
 You can modify the prompt in `main.py` to adjust the language level, target language, or specific instructions for the AI model.
 
+Here's the updated README with the additions you requested:
+
+[Your existing README content]
+
+## Sample Output
+
+You can view sample outputs under the `sample_pics/result` directory. These samples demonstrate the kind of vocabulary lists and Anki decks the program generates from input images.
+
+## Setup for OpenAI Integration
+
+If you plan to use GPT-4, you need to set up your OpenAI credentials:
+
+1. Create a file named `credentials.py` in the `src/llm/` directory.
+2. In this file, define your OpenAI API key as follows:
+   ```python
+   openai_key = "your_openai_api_key_here"
+   ```
+3. Make sure to add `credentials.py` to your `.gitignore` file to avoid accidentally sharing your API key.
+
+## Next Steps
+
+Future developments for this project include:
+
+1. Implementing quantitative tests to compare performance with other multimodal models, enabling objective evaluation of the tool's effectiveness.
+
+2. Creating visualizations or network graphs to explore lexical themes between images. This could reveal interesting patterns in vocabulary acquisition across different contexts.
+
+These enhancements aim to improve the tool's performance and provide deeper insights into the language learning process.
+
+[Rest of your existing README content]
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
