@@ -49,11 +49,12 @@ def ocr_llava(prompt, path, model='llava-llama3', temperature=0.2):
         )['response']
         return result
 
-def chat(model, messages, stream=False):
+def chat(model, messages, stream=False, temperature=0.2):
     response = ollama.chat(
         model=model,
         messages=messages,
-        stream=stream
+        stream=stream,
+        options={"temperature": temperature},
     )
     return response
 
@@ -74,5 +75,5 @@ def ocr_llava_chat(prompt, path, model='llava-llama3', temperature=0.2):
         }
     ]
     
-    result = chat(model, messages, stream=False)
+    result = chat(model, messages, stream=False, temperature=temperature)
     return result['message']['content'], result

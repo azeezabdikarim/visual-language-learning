@@ -19,7 +19,7 @@ def parse_json_response_llava(response, start="JSON_START:"):
             "json_response": response
         }
 
-def build_table_from_responses(llm_response, ocr_text, metadata):
+def build_table_from_responses(llm_response, ocr_text, metadata, jpg_path=None):
     responses_json = [parse_json_response_llava(res) for res in llm_response]
     metadata_df = pd.DataFrame(metadata).rename(columns={
         "Image DateTime": "image_datetime", 
@@ -34,6 +34,11 @@ def build_table_from_responses(llm_response, ocr_text, metadata):
         "GPS GPSSpeed": "speed", 
         "GPS GPSDate": "date"
     })
+    if len(metadata_df) == len(jpg_path):
+        metadata_df['jpg_path'] = jpg_path
+    else:
+        metadata_df['jpg_path'] = ["" for _ in range(len(metadata_df))]
+
     metadata_df['photo_id'] = range(len(metadata_df))
     responses_df = pd.DataFrame(responses_json)
     responses_df['photo_id'] = range(len(responses_df))

@@ -1,0 +1,104 @@
+photo_id,vocab_word,english_translation,source
+0,beste,best,extracted
+0,ausbilder,trainer,extracted
+0,deutschlands,germany's,extracted
+0,faire,fair,extracted
+0,ausbildung,training,extracted
+1,neptunbrunnen,Neptune Fountain,extracted
+1,alexanderplatz,Alexanderplatz,extracted
+1,freiein,freedom,extracted
+1,investieren,invest,extracted
+1,nicht,not,extracted
+1,waffen,weapons,extracted
+2,ordentlichen,orderly,extracted
+2,sache,thing,extracted
+2,handel,trade,extracted
+2,flasche,bottle,extracted
+2,soziale,social,extracted
+2,anbauregionen,cultivation regions,extracted
+3,spielplatz,playground,extracted
+3,wiedergestaltung,redesign,extracted
+3,einladung,invitation,extracted
+3,konzeptvorstellung,concept presentation,extracted
+3,beteiligung,participation,extracted
+3,liebe,dear,extracted
+3,kinder,children,extracted
+3,eltern,parents,extracted
+3,herzlich,cordially,extracted
+3,einladen,invite,extracted
+3,konzept,concept,extracted
+3,waldemarstraße,Waldemar Street,extracted
+3,kennenzulernen,to get to know,extracted
+3,planungsprozess,planning process,extracted
+3,konkreter,more concrete,extracted
+3,antworten,answer,extracted
+3,fragen,questions,extracted
+3,bautermin,construction date,extracted
+3,beteiligten,participants,extracted
+3,gesonderter,separate,extracted
+3,vormittag,morning,extracted
+3,stattbau,site construction,extracted
+3,berlin,Berlin,extracted
+3,montag,Monday,extracted
+3,uhr,hour,extracted
+3,wo,where,extracted
+3,neugestaltung,redesign,extracted
+3,planung,planning,extracted
+3,hinweise,comments,extracted
+3,anregungen,suggestions,extracted
+3,fragen,questions,extracted
+3,klären,clarify,extracted
+4,da,there,extracted
+0,der lehrer,the teacher,suggested
+0,die schule,the school,suggested
+0,lernen,to learn,suggested
+0,das jahr,the year,suggested
+0,die karriere,the career,suggested
+1,der brunnen,the fountain,suggested
+1,der platz,the square,suggested
+1,die waffen,the weapons,suggested
+1,das geld,the money,suggested
+1,die stadt,the city,suggested
+1,das zentrum,the center,suggested
+1,der verkehr,the traffic,suggested
+1,das einkaufszentrum,the shopping center,suggested
+1,die u-bahn,the subway,suggested
+1,der entspannung,the relaxation,suggested
+1,das wasser,the water,suggested
+1,das monument,the monument,suggested
+2,das handeln,trade,suggested
+2,die flasche,bottle,suggested
+2,das trinkwasser,drinking water,suggested
+2,das obst,fruit,suggested
+2,das gemüse,vegetables,suggested
+2,der supermarkt,supermarket,suggested
+2,das auto,car,suggested
+3,der spielplatz,the playground,suggested
+3,die neugestaltung,the redesign,suggested
+3,die einladung,the invitation,suggested
+3,die konzeptvorstellung,the concept presentation,suggested
+3,die beteiligung,the participation,suggested
+3,die kinder,the children,suggested
+3,die eltern,the parents,suggested
+3,das konzept,the concept,suggested
+3,die planung,the planning,suggested
+3,die hinweise,the comments,suggested
+3,die anregungen,the suggestions,suggested
+3,die fragen,the questions,suggested
+3,die antworten,the answers,suggested
+3,die waldemarstraße,the Waldemar Street,suggested
+3,der montag,the Monday,suggested
+3,die stadt,the city,suggested
+3,die stunde,the hour,suggested
+3,die beteiligten,the participants,suggested
+3,der vormittag,the morning,suggested
+4,der hund,the dog,suggested
+4,die katze,the cat,suggested
+4,das haus,the house,suggested
+4,die familie,the family,suggested
+4,der tag,the day,suggested
+4,die nacht,the night,suggested
+4,der regen,the rain,suggested
+4,das strasse,the street,suggested
+4,die frau,the woman,suggested
+4,der mann,the man,suggested

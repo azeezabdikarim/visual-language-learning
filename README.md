@@ -21,6 +21,32 @@ Whether you're a beginner or advanced learner, this tool can transform your dail
 - Creates Anki flashcard decks for language learning
 - Supports customizable language levels (e.g., A1, A2, B1, etc.)
 
+## Sample Outputs
+
+You can view samples of the generated tables by examining the Jupyter notebook:
+
+[View Tables Notebook](notebooks/view_tables.ipynb)
+
+This notebook provides a detailed look at the data structures created during the image analysis process.
+
+Additionally, here's visual summary of the output for one image. The vocabulary extracted is exported to an Anki deck located in the respective results forlder for each model:
+
+![Sample Image Analysis](sample_pics/results/gpt-4o/gpt-4o_sample.png)
+
+This image demonstrates the program's capabilities:
+
+1. **Original Image**: On the left, you see the input image - a sign about a playground renovation in German.
+
+2. **Extracted Information**: On the right, the model provides:
+   - **Image Quality**: Assessed as "high" in this case.
+   - **OCR Text**: The full text extracted from the image.
+   - **Extracted Words**: Key German words identified in the image.
+   - **Translated Extracted Words**: English translations of the extracted words.
+   - **Suggested Words**: Additional relevant German words and phrases based on the image context.
+   - **Translated Suggested Words**: English translations of the suggested words.
+
+This output showcases how the model extracts relevant language information from visual input, providing both the original German text and its English translation. It demonstrates the tool's ability to create contextual vocabulary lists from everyday visual encounters with the target language.
+
 ## Requirements
 
 - Python 3.7+

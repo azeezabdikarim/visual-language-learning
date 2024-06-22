@@ -1,0 +1,284 @@
+photo_id,image_datetime,latitude_ref,latitude,longitude_ref,longitude,altitude_ref,altitude,timestamp,date,jpg_path,json_response,ocr_text,extracted_words,translated_extracted_words,suggested_words,translated_suggested_words,image_quality,relevance_explanation,quality_explanation
+0,2024:05:23 09:50:44,None,"[52, 29, 2053/100]",E,"[13, 26, 443/50]",0,197355/5078,"[7, 50, 35]",2024:05:23,/Users/azeez/Documents/LLMs/visual-language-learning/sample_pics/jpg/IMG_9533.jpg,"JSON_START:
+{
+    ""extracted_words"": [
+        ""beste"",
+        ""ausbilder"",
+        ""deutschlands"",
+        ""faire"",
+        ""ausbildung""
+    ],
+    ""translated_extracted_words"": [
+        ""best"",
+        ""trainer"",
+        ""germany's"",
+        ""fair"",
+        ""training""
+    ],
+    ""suggested_words"": [
+        ""der lehrer"",
+        ""die schule"",
+        ""lernen"",
+        ""das jahr"",
+        ""die karriere""
+    ],
+    ""translated_suggested_words"": [
+        ""the teacher"",
+        ""the school"",
+        ""to learn"",
+        ""the year"",
+        ""the career""
+    ],
+    ""image_quality"": ""medium"",
+    ""relevance_explanation"": ""The suggested words are relevant to the context of education and career mentioned in the original text."",
+    ""quality_explanation"": ""The extracted text had some noise, but the main German words were identifiable, hence a medium quality rating.""
+}","\a E
+
+W ga
+
+K
+
+°gLn-""‘t RE a
+
+Beste Ausbilder
+
+Deutschlands
+Faire Ausbildung *x d k
+2024
+
+trendence Netto Marken-Discount
+
+AA ; ATZ! SCANNEN &
+BEWERBEN
+
+","['beste', 'ausbilder', 'deutschlands', 'faire', 'ausbildung']","['best', 'trainer', ""germany's"", 'fair', 'training']","['der lehrer', 'die schule', 'lernen', 'das jahr', 'die karriere']","['the teacher', 'the school', 'to learn', 'the year', 'the career']",medium,The suggested words are relevant to the context of education and career mentioned in the original text.,"The extracted text had some noise, but the main German words were identifiable, hence a medium quality rating."
+1,2024:05:30 18:54:53,None,"[52, 29, 1147/25]",E,"[13, 25, 1279/100]",0,232101/6382,"[16, 54, 5199/100]",2024:05:30,/Users/azeez/Documents/LLMs/visual-language-learning/sample_pics/jpg/IMG_9590.jpg,"JSON_START:
+{
+    ""extracted_words"": [""neptunbrunnen"", ""alexanderplatz"", ""freiein"", ""investieren"", ""nicht"", ""waffen""],
+    ""translated_extracted_words"": [""Neptune Fountain"", ""Alexanderplatz"", ""freedom"", ""invest"", ""not"", ""weapons""],
+    ""suggested_words"": [""der brunnen"", ""der platz"", ""die waffen"", ""das geld"", ""die stadt"", ""das zentrum"", ""der verkehr"", ""das einkaufszentrum"", ""die u-bahn"", ""der entspannung"", ""das wasser"", ""das monument""],
+    ""translated_suggested_words"": [""the fountain"", ""the square"", ""the weapons"", ""the money"", ""the city"", ""the center"", ""the traffic"", ""the shopping center"", ""the subway"", ""the relaxation"", ""the water"", ""the monument""],
+    ""image_quality"": ""low"",
+    ""relevance_explanation"": ""The words and phrases suggested are related to typical vocabulary used when describing public places and well-known landmarks, which ties into the text's context."",
+    ""quality_explanation"": ""The OCR extracted few valid German words and had some non-readable fragments, indicating low quality.""
+}","ET
+
+i Neptunbrunnen |
+E >+U Alexanderplatz \
+
+BSW
+
+®
+
+bsw-vg.eu
+
+n www.staudigl-druck.de Y P A E
+
+In Frieeién
+investieren, nicht
+in Waffen!
+
+","['neptunbrunnen', 'alexanderplatz', 'freiein', 'investieren', 'nicht', 'waffen']","['Neptune Fountain', 'Alexanderplatz', 'freedom', 'invest', 'not', 'weapons']","['der brunnen', 'der platz', 'die waffen', 'das geld', 'die stadt', 'das zentrum', 'der verkehr', 'das einkaufszentrum', 'die u-bahn', 'der entspannung', 'das wasser', 'das monument']","['the fountain', 'the square', 'the weapons', 'the money', 'the city', 'the center', 'the traffic', 'the shopping center', 'the subway', 'the relaxation', 'the water', 'the monument']",low,"The words and phrases suggested are related to typical vocabulary used when describing public places and well-known landmarks, which ties into the text's context.","The OCR extracted few valid German words and had some non-readable fragments, indicating low quality."
+2,2024:06:07 21:38:04,None,"[52, 31, 331/100]",E,"[13, 23, 5991/100]",0,433407/11816,"[19, 38, 153/50]",2024:06:07,/Users/azeez/Documents/LLMs/visual-language-learning/sample_pics/jpg/IMG_9646.jpg,"JSON_START:
+{
+  ""extracted_words"": [""ordentlichen"", ""sache"", ""handel"", ""flasche"", ""soziale"", ""anbauregionen""],
+  ""translated_extracted_words"": [""orderly"", ""thing"", ""trade"", ""bottle"", ""social"", ""cultivation regions""],
+  ""suggested_words"": [""das handeln"", ""die flasche"", ""das trinkwasser"", ""das obst"", ""das gemüse"", ""der supermarkt"", ""das auto""],
+  ""translated_suggested_words"": [""trade"", ""bottle"", ""drinking water"", ""fruit"", ""vegetables"", ""supermarket"", ""car""],
+  ""image_quality"": ""low"",
+  ""relevance_explanation"": ""The extracted words and suggested phrases relate to everyday objects and activities appropriate for a beginner's understanding of the German language (A1 level)."",
+  ""quality_explanation"": ""The OCR text had a significant amount of noise and many non-alphabetic characters, which degraded overall quality.""
+}","naid is@ono ..
+Dn ordentlichen Schl
+e gute Sache, Nebe c
+iren Handel un’rers'rü1‘\
++ eder Flasche Soziale P
+_ den Anbauregionen.
+
+‚Ww.lemonaid.de \
+nonaid Beyerages GmbH
+
+ıch 30 61:27
+
+","['ordentlichen', 'sache', 'handel', 'flasche', 'soziale', 'anbauregionen']","['orderly', 'thing', 'trade', 'bottle', 'social', 'cultivation regions']","['das handeln', 'die flasche', 'das trinkwasser', 'das obst', 'das gemüse', 'der supermarkt', 'das auto']","['trade', 'bottle', 'drinking water', 'fruit', 'vegetables', 'supermarket', 'car']",low,The extracted words and suggested phrases relate to everyday objects and activities appropriate for a beginner's understanding of the German language (A1 level).,"The OCR text had a significant amount of noise and many non-alphabetic characters, which degraded overall quality."
+3,2024:05:31 13:37:31,None,"[52, 30, 91/5]",E,"[13, 25, 1957/100]",0,592073/15644,"[11, 37, 31]",2024:05:31,/Users/azeez/Documents/LLMs/visual-language-learning/sample_pics/jpg/IMG_9612.jpg,"JSON_START:
+{
+  ""extracted_words"": [
+    ""spielplatz"",
+    ""wiedergestaltung"",
+    ""einladung"",
+    ""konzeptvorstellung"",
+    ""beteiligung"",
+    ""liebe"",
+    ""kinder"",
+    ""eltern"",
+    ""herzlich"",
+    ""einladen"",
+    ""konzept"",
+    ""waldemarstraße"",
+    ""kennenzulernen"",
+    ""planungsprozess"",
+    ""konkreter"",
+    ""antworten"",
+    ""fragen"",
+    ""bautermin"",
+    ""beteiligten"",
+    ""gesonderter"",
+    ""vormittag"",
+    ""stattbau"",
+    ""berlin"",
+    ""montag"",
+    ""uhr"",
+    ""wo"",
+    ""neugestaltung"",
+    ""planung"",
+    ""hinweise"",
+    ""anregungen"",
+    ""fragen"",
+    ""klären""
+  ],
+  ""translated_extracted_words"": [
+    ""playground"",
+    ""redesign"",
+    ""invitation"",
+    ""concept presentation"",
+    ""participation"",
+    ""dear"",
+    ""children"",
+    ""parents"",
+    ""cordially"",
+    ""invite"",
+    ""concept"",
+    ""Waldemar Street"",
+    ""to get to know"",
+    ""planning process"",
+    ""more concrete"",
+    ""answer"",
+    ""questions"",
+    ""construction date"",
+    ""participants"",
+    ""separate"",
+    ""morning"",
+    ""site construction"",
+    ""Berlin"",
+    ""Monday"",
+    ""hour"",
+    ""where"",
+    ""redesign"",
+    ""planning"",
+    ""comments"",
+    ""suggestions"",
+    ""questions"",
+    ""clarify""
+  ],
+  ""suggested_words"": [
+    ""der spielplatz"",
+    ""die neugestaltung"",
+    ""die einladung"",
+    ""die konzeptvorstellung"",
+    ""die beteiligung"",
+    ""die kinder"",
+    ""die eltern"",
+    ""das konzept"",
+    ""die planung"",
+    ""die hinweise"",
+    ""die anregungen"",
+    ""die fragen"",
+    ""die antworten"",
+    ""die waldemarstraße"",
+    ""der montag"",
+    ""die stadt"",
+    ""die stunde"",
+    ""die beteiligten"",
+    ""der vormittag""
+  ],
+  ""translated_suggested_words"": [
+    ""the playground"",
+    ""the redesign"",
+    ""the invitation"",
+    ""the concept presentation"",
+    ""the participation"",
+    ""the children"",
+    ""the parents"",
+    ""the concept"",
+    ""the planning"",
+    ""the comments"",
+    ""the suggestions"",
+    ""the questions"",
+    ""the answers"",
+    ""the Waldemar Street"",
+    ""the Monday"",
+    ""the city"",
+    ""the hour"",
+    ""the participants"",
+    ""the morning""
+  ],
+  ""image_quality"": ""high"",
+  ""relevance_explanation"": ""The extracted and suggested words are relevant to a notice or flyer about the redesign of a playground which is appropriate for A1 level vocabulary learning."",
+  ""quality_explanation"": ""The OCR output was clear and contained minimal errors, making the extracted words both complete and accurate.""
+}
+","SPIELPLATZ WALDEMARSTRASSE
+
+NEUGESTÄLTUNG
+
+Einladung zur Konzeptvorstellung und Beteiligung am
+29.05.2024 von 15:00 - 17:30 Uhr
+
+Liebe Kinder,Jliebe Eltern,
+
+wir laden Euch herzlich ein, das Konzeptzür
+Neugestaltung des Spielplatzes in der Waldemarstraße
+kennenzulernen und die Planung mit Euren Hinweisen
+
+und Anregungen zu bereichern. Mit Eurer Hilfe soll die
+Planung konkreter werden!
+
+Außerdem beantworten wir Eure Fragen zum weiteren
+
+Beteiligungs- und Planungsprozess und klären, ab wann
+gebaut werden soll. _ ' ;
+
+Mit denen, die sich im letzten Jahr bereits beteiligt
+
+haben, gibt es einen gesonderten Termin am Vormittag.
+
+Kommt vorbei!
+
+sSTATTBAU
+R W eRLIN
+
+Wo:
+
+Spielplatz
+Waldemarstraße
+(neben Nr. 57)
+
+Waähnn:
+Mittwoch, 29.05.2024
+15:00 - 17:30 Uhr
+
+","['spielplatz', 'wiedergestaltung', 'einladung', 'konzeptvorstellung', 'beteiligung', 'liebe', 'kinder', 'eltern', 'herzlich', 'einladen', 'konzept', 'waldemarstraße', 'kennenzulernen', 'planungsprozess', 'konkreter', 'antworten', 'fragen', 'bautermin', 'beteiligten', 'gesonderter', 'vormittag', 'stattbau', 'berlin', 'montag', 'uhr', 'wo', 'neugestaltung', 'planung', 'hinweise', 'anregungen', 'fragen', 'klären']","['playground', 'redesign', 'invitation', 'concept presentation', 'participation', 'dear', 'children', 'parents', 'cordially', 'invite', 'concept', 'Waldemar Street', 'to get to know', 'planning process', 'more concrete', 'answer', 'questions', 'construction date', 'participants', 'separate', 'morning', 'site construction', 'Berlin', 'Monday', 'hour', 'where', 'redesign', 'planning', 'comments', 'suggestions', 'questions', 'clarify']","['der spielplatz', 'die neugestaltung', 'die einladung', 'die konzeptvorstellung', 'die beteiligung', 'die kinder', 'die eltern', 'das konzept', 'die planung', 'die hinweise', 'die anregungen', 'die fragen', 'die antworten', 'die waldemarstraße', 'der montag', 'die stadt', 'die stunde', 'die beteiligten', 'der vormittag']","['the playground', 'the redesign', 'the invitation', 'the concept presentation', 'the participation', 'the children', 'the parents', 'the concept', 'the planning', 'the comments', 'the suggestions', 'the questions', 'the answers', 'the Waldemar Street', 'the Monday', 'the city', 'the hour', 'the participants', 'the morning']",high,The extracted and suggested words are relevant to a notice or flyer about the redesign of a playground which is appropriate for A1 level vocabulary learning.,"The OCR output was clear and contained minimal errors, making the extracted words both complete and accurate."
+4,2024:05:29 19:25:47,None,"[52, 29, 4881/100]",E,"[13, 21, 14]",0,328702/9001,"[17, 25, 4459/100]",2024:05:29,/Users/azeez/Documents/LLMs/visual-language-learning/sample_pics/jpg/IMG_9588.jpg,"JSON_START:
+{
+    ""extracted_words"": [""da""],
+    ""translated_extracted_words"": [""there""],
+    ""suggested_words"": [""der hund"", ""die katze"", ""das haus"", ""die familie"", ""der tag"", ""die nacht"", ""der regen"", ""das strasse"", ""die frau"", ""der mann""],
+    ""translated_suggested_words"": [""the dog"", ""the cat"", ""the house"", ""the family"", ""the day"", ""the night"", ""the rain"", ""the street"", ""the woman"", ""the man""],
+    ""image_quality"": ""low"",
+    ""relevance_explanation"": ""The suggested words cover basic nouns, weather conditions, and relationship-related vocabulary suitable for the A1 level."",
+    ""quality_explanation"": ""The OCR output mostly consisted of non-alphabetic characters and yielded only one valid German word.""
+}
+","m
+
+w
+®
+»
++# i
+z
+X
+
+$
+
+D
+Da
+",['da'],['there'],"['der hund', 'die katze', 'das haus', 'die familie', 'der tag', 'die nacht', 'der regen', 'das strasse', 'die frau', 'der mann']","['the dog', 'the cat', 'the house', 'the family', 'the day', 'the night', 'the rain', 'the street', 'the woman', 'the man']",low,"The suggested words cover basic nouns, weather conditions, and relationship-related vocabulary suitable for the A1 level.",The OCR output mostly consisted of non-alphabetic characters and yielded only one valid German word.

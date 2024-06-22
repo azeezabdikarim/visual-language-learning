@@ -1,0 +1,28 @@
+photo_id,vocab_word,english_translation,source
+3,SPIELPLATZ,Playground,extracted
+3,WALDEMARSTRASSE,Renovation,extracted
+3,NEUGESTÄLTUNG,Invitation,extracted
+3,EINLADUNG,Concept Presentation,extracted
+3,KONZEPTVORSTELLUNG,Participation,extracted
+3,BETEILIGUNG,Planning,extracted
+3,PLANUNG,Built,extracted
+3,GEBAUT,Schedule,extracted
+3,TERMIN,Building,extracted
+3,GEBAUEN,Playground,extracted
+3,Spielplatz,Waldemarstraße,extracted
+3,Waldemarstraße,FÜR NICHTGÄSTE,extracted
+4,FÜR,W-C NUTZUNG FOR NOT GUESTS,extracted
+4,NICHTGÄSTE,"0,50€ FOR NOT GUESTS",extracted
+4,W-C NUTZUNG,BITE AM TRESSEN FOR NOT GUESTS,extracted
+3,SPieleplatz,Playground,suggested
+3,Waldermarstrasse,Renovation,suggested
+3,Neugestaltung,Invitation to the Concept Presentation and Participation on 29.05.2024 from 15:00 - 17:30 PM,suggested
+3,Einladung zur Konzeptvorstellung und Beteiligung am 29.05.2024 von 15:00 - 17:30 Uhr,Making the planning process more concrete,suggested
+3,Planung konkreter werden!,We will answer your questions about the further Beteiligungs- und Planungsprozess and clarify when it will be built.,suggested
+3,"Außerdem beantworten wir Eure Fragen zum weiteren Beteiligungs- und Planungsprozess und klären, ab wann gebaut werden soll.",There is a separate schedule for those who participated in the last year.,suggested
+3,"Mit denen, die sich im letzten Jahr bereits beteiligt haben, gibt es einen gesonderten Termin am Vormittag.",Come over!,suggested
+3,Kommt vorbei!,Playground,suggested
+3,Spielplatz,Renovation,suggested
+3,Waldemarstrasse,NICHTGÄSTEN W-C NUTZUNG,suggested
+4,NICHTGÄSTEN,"NICHTGÄSTEN 0,50€",suggested
+4,NICHTGÄSTEN W-C NUTZUNG,NICHTGÄSTE AM TRESSEN ZAHLEN,suggested
